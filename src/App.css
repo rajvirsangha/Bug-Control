@@ -1,0 +1,5 @@
+body{
+  background: url("../public/triangles.jpg") no-repeat center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
